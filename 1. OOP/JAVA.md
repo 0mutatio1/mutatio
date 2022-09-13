@@ -1,4 +1,4 @@
-# OOP IN JAVA
+# JAVA
 
 we create new data types in java, which use
  `class(type)` to define a type in java.
@@ -12,3 +12,4 @@ The `type` determine what the object can do and
 can not do, the `type` has a `interface` for all
 derived objects.
 
+## Compiled or Interpreted
